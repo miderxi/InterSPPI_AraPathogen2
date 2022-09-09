@@ -1,4 +1,4 @@
-## 1. download
+## 1. download and untar the program
 ```
 tar -xvf RF_esm_net.tar.xz
 ```
